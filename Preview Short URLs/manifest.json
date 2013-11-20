@@ -3,7 +3,7 @@
 
   "name": "Preview Short URLs",
   "description": "Stop short URL abuse by previewing the URL automatically before visiting it.",
-  "version": "1.0",
+  "version": "1.1",
   "author": "Alfie \"Azelphur\" Day",
   "homepage_url": "http://blog.azelphur.com/",
 
